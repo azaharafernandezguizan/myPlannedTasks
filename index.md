@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# My List of Planned Tasks
+Here I will be updating the list of planned tasks that I want to finalise before certain periods of time. I want to start structuring my spare time to be able to succesfully complete personal proyects to be share throught Github and to grow professionally during this work. 
+## Before the end of the current year (2017)
+1.Pass the Scrum Manager Certification exam
+2. Complete the course English Business Writting Essentials from my actual company
+3. Read some **documentation** that I have been saving:
+3.1 Read the book .NET Microservices – Architecture for Containerized .NET Applications
+3.2 Read the book _Vue.js_ of Jose Dongil
+3.3 Read the book The software Craftsman
+3.4. Read the book Growing Object Oriented Software, Guided by Tests
+4. Start a bot. 
+5. Think of the personal project to be developed during next year.
 
-You can use the [editor on GitHub](https://github.com/azaharafernandezguizan/myPlannedTasks/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azaharafernandezguizan/myPlannedTasks/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
