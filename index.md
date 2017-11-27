@@ -3,7 +3,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 ## Before the end of the current year (2017)
 1. Pass the Scrum Manager Certification exam --> **Passed!**
 
-2. Complete the course English Business Writting Essentials from my actual company --> In Progress
+2. Complete the course English Business Writting Essentials from my current company --> In Progress
 
 3. Read some **documentation** that I have been saving:
 
@@ -11,7 +11,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
    Read the book _Vue.js_ of Jose Dongil
 
-   Read the book The software Craftsman
+   Read the book The Software Craftsman
 
    Read the book Growing Object Oriented Software, Guided by Tests
 
