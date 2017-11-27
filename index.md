@@ -7,13 +7,13 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 3. Read some **documentation** that I have been saving:
 
-  . Read the book .NET Microservices – Architecture for Containerized .NET Applications
+   Read the book .NET Microservices – Architecture for Containerized .NET Applications
 
-  . Read the book _Vue.js_ of Jose Dongil
+   Read the book _Vue.js_ of Jose Dongil
 
-  . Read the book The software Craftsman
+   Read the book The software Craftsman
 
-  . Read the book Growing Object Oriented Software, Guided by Tests
+   Read the book Growing Object Oriented Software, Guided by Tests
 
 4. Start a bot.
 
