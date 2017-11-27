@@ -1,9 +1,9 @@
 # My List of Planned Tasks
 Here I will be updating the list of planned tasks that I want to finalise before certain periods of time. I want to start structuring my spare time to be able to succesfully complete personal proyects to be share throught Github and to grow professionally during this work. 
 ## Before the end of the current year (2017)
-1. Pass the Scrum Manager Certification exam 
+1. Pass the Scrum Manager Certification exam --> **Passed!**
 
-2. Complete the course English Business Writting Essentials from my actual company
+2. Complete the course English Business Writting Essentials from my actual company --> In Progress
 
 3. Read some **documentation** that I have been saving:
 
