@@ -7,7 +7,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 3. Read some **documentation** that I have been saving:
 
-   Read the book .NET Microservices – Architecture for Containerized .NET Applications
+   Read the book .NET Microservices – Architecture for Containerized .NET Applications --> Done
 
    Read the book _Vue.js_ of Jose Dongil
 
@@ -18,5 +18,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 4. Start a bot.
 
 5. Think of the personal project to be developed during next year.
+
+6. Prepare two classes to be imparted in volunteer sesions to promote the new technologies among children of my council.
 
 
