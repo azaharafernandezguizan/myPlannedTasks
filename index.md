@@ -3,7 +3,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 ## Before the end of the current year (2017)
 1. Pass the Scrum Manager Certification exam --> **Passed!**
 
-2. Complete the course English Business Writting Essentials from my current company --> In Progress
+2. Complete the course English Business Writting Essentials from my current company --> Done
 
 3. Read some **documentation** that I have been saving:
 
