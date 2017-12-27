@@ -25,7 +25,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. Continue the course of Python.
 
-2. Start a mini personal project on Aurelia.js.
+2. Start a mini personal project on Vue.js.
 
 3. Go to BilboStack and desvirtualize many people!!!!:-)
 
@@ -33,9 +33,11 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. Complete the course Python.
 
-2. Complete the mini personal project on Aurelia.js and publish it on Github.
+2. Complete the mini personal project on Vue.js and publish it on Github.
 
-3. Plan to create a bot with Python.
+3. Develop the same mini project on Aurelia.js and publish it on Github, and try to write a post comparing both frameworks.
+
+4. Plan to create a bot with Python.
 
 
 
