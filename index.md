@@ -21,19 +21,23 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 2. Impart the teen programmers session in El Entrego and Sotrondio --> **Done, few assistants but they were really impressed!** I will continue thinking on how to improve the initiative.
 
-2. Start a mini personal project on Vue.js.
+2. Start a mini personal project on Vue.js --> **postponed**
 
-3. Go to BilboStack and desvirtualize many people!!!!:-)
+3. Go to BilboStack and desvirtualize many people!!!!:-) --> **In progress**
+
+4. Work on WTMAsturias --> **In progress**
 
 ## February 2018
 
-1. Complete the course Python.
+1. Make a bot for Afaya publications.
 
-2. Complete the mini personal project on Vue.js and publish it on Github.
+2. Create mini personal project on Vue.js and publish it on Github.
 
 3. Develop the same mini project on Aurelia.js and publish it on Github, and try to write a post comparing both frameworks.
 
-4. Plan to create a bot with Python.
+4. Continue working on WTMAsturias
+
+5. Collaborate with AsturiasHacking in a session about people reorienting their professional careers to technology
 
 ## March 2018
 ## April 2018
