@@ -23,25 +23,28 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 2. Start a mini personal project on Vue.js --> **postponed**
 
-3. Go to BilboStack and desvirtualize many people!!!!:-) --> **In progress**
+3. Go to BilboStack and desvirtualize many people!!!!:-) --> **Done!**
 
-4. Work on WTMAsturias --> **In progress**
+4. Work on WTMAsturias --> **Done!**
 
 ## February 2018
 
-1. Make a bot for Afaya publications.
+1. Make a bot for Afaya publications. --> **postponed after WTMAsturias ***
 
-2. Create mini personal project on Vue.js and publish it on Github.
+2. Create mini personal project on Vue.js and publish it on Github. --> **postponed**
 
-3. Develop the same mini project on Aurelia.js and publish it on Github, and try to write a post comparing both frameworks.
+3. Develop the same mini project on Aurelia.js and publish it on Github. --> **in progress**
 
-4. Continue working on WTMAsturias
+4. Continue working on WTMAsturias --> **in progress**
 
-5. Collaborate with AsturiasHacking in a session about people reorienting their professional careers to technology
+5. Collaborate with AsturiasHacking in a session about people reorienting their professional careers to technology--> **in progress**
+
+6. Learn Salesforce for my work! --> **in progress**
 
 ## March 2018
 ## April 2018
 ## May 2018
+1. Make a bot for Afaya publications
 ## June 2018
 ## July 2018
 ## August 2018
