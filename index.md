@@ -42,11 +42,29 @@ Here I will be updating the list of planned tasks that I want to finalise before
 6. Learn Salesforce for my work! --> **in progress**
 
 ## March 2018
+
+1. Continue the mini project on Aurelia.js and start the same project on Angular to compare it and publish it on Github. --> **in progress**
+
+2. Continue working on WTMAsturias --> **in progress**
+
 ## April 2018
+
+1. WTMAsturias 
+
+2. Make a bot for Afaya publications
+
 ## May 2018
-1. Make a bot for Afaya publications
+
+1. Create a project based on chromotherapy with Raspberri Pi.
+
 ## June 2018
+
+1. Continue the project based on chromotherapy with Raspberri Pi.
+
 ## July 2018
+
+1. Create a project with Google Home, DialogFlow and Firebase.
+
 ## August 2018
 ## September 2018
 ## October 2018
