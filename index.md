@@ -43,7 +43,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## March 2018
 
-1. Continue the mini project on Aurelia.js and start the same project on Angular to compare it and publish it on Github. --> **in progress**
+1. Continue the mini project on Aurelia.js and start the same project on Angular to compare it and publish it on Github. --> **done**
 
 2. Continue working on WTMAsturias --> **in progress**
 
@@ -51,21 +51,23 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. WTMAsturias 
 
-2. Make a bot for Afaya publications
+2. Start a project based on chromotherapy with Raspberri Pi with Juan Manuel Rodriguez Perez.
 
 ## May 2018
 
-1. Create a project based on chromotherapy with Raspberri Pi.
+1. Continue with the project based on chromotherapy with Raspberri Pi with Juan Manuel Rodriguez Perez.
 
 ## June 2018
 
-1. Continue the project based on chromotherapy with Raspberri Pi.
+1. Make a bot for Afaya publications
 
 ## July 2018
 
-1. Create a project with Google Home, DialogFlow and Firebase.
+1. Prepare a certification
 
 ## August 2018
+
+1. Prepare a certification
 ## September 2018
 ## October 2018
 ## November 2018
