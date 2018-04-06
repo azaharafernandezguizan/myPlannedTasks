@@ -33,33 +33,41 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 2. Create mini personal project on Vue.js and publish it on Github. --> **postponed**
 
-3. Develop the same mini project on Aurelia.js and publish it on Github. --> **in progress**
+3. Develop the same mini project on Aurelia.js and publish it on Github. --> **Done!**
 
-4. Continue working on WTMAsturias --> **in progress**
+4. Continue working on WTMAsturias --> **Done!**
 
-5. Collaborate with AsturiasHacking in a session about people reorienting their professional careers to technology--> **in progress**
+5. Collaborate with AsturiasHacking in a session about people reorienting their professional careers to technology--> **Done!**
 
-6. Learn Salesforce for my work! --> **in progress**
+6. Learn Salesforce for my work! --> **Abandoned --> Salesforce is not for me**
 
 ## March 2018
 
-1. Continue the mini project on Aurelia.js and start the same project on Angular to compare it and publish it on Github. --> **done**
+1. Continue the mini project on Aurelia.js and start the same project on Angular to compare it and publish it on Github. --> **Done!**
 
-2. Continue working on WTMAsturias --> **in progress**
+2. Continue working on WTMAsturias --> **Done!**
 
 ## April 2018
 
-1. WTMAsturias 
+1. WTMAsturias --> **almost completed**
 
-2. Start a project based on chromotherapy with Raspberri Pi with Juan Manuel Rodriguez Perez.
+2. Start a project based on chromotherapy with Raspberri Pi with Juan Manuel Rodriguez Perez. --> **working on it**
+
+3. Realize another technical workshop for girls in my council --> **In progress**
 
 ## May 2018
 
-1. Continue with the project based on chromotherapy with Raspberri Pi with Juan Manuel Rodriguez Perez.
+1. Finalize STEM Trivial on React.
+
+2. Develop STEM Trivial on Vue.
+
+3. Write about the experience of STEM Trivial in React, Vue, Aurelia and Angular and share it.
 
 ## June 2018
 
-1. Make a bot for Afaya publications
+1. Make a chat using Google Home Assistant.
+
+2. Make a bot for Afaya publications.
 
 ## July 2018
 
