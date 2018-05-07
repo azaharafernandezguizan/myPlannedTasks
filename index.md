@@ -57,11 +57,11 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## May 2018
 
-1. Finalize STEM Trivial on React.
+1. Finalize STEM Trivial on React. --> **In progress**
 
-2. Develop STEM Trivial on Vue.
+2. Write about the experience of STEM Trivial in React, Aurelia and Angular and share it.
 
-3. Write about the experience of STEM Trivial in React, Vue, Aurelia and Angular and share it.
+3. Realize another technical workshop for girls in my council --> **In progress**
 
 ## June 2018
 
@@ -71,11 +71,11 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## July 2018
 
-1. Prepare a certification
+1. Start a new personal project.
 
 ## August 2018
 
-1. Prepare a certification
+1. Start a new personal project.
 ## September 2018
 ## October 2018
 ## November 2018
