@@ -3,7 +3,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 
 # Main objectives of 2018
-1.Spend more time doing what I really want to do and not what I should do.
+1. Spend more time doing what I really want to do and not what I should do.
 
 2. Develop a small personal project comparing two Javascript frameworks, publish it on Github and make some type of publication/ talk comparing them. 
 
@@ -49,38 +49,50 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## April 2018
 
-1. WTMAsturias --> **almost completed**
+1. WTMAsturias --> **completed**
 
 2. Start a project based on chromotherapy with Raspberri Pi with Juan Manuel Rodriguez Perez. --> **working on it**
 
-3. Realize another technical workshop for girls in my council --> **In progress**
+3. Realize another technical workshop for girls in my council --> **Not posible to found proper installations**
 
 ## May 2018
 
-1. Finalize STEM Trivial on React. --> **In progress**
+1. Finalize STEM Trivial on React. --> **Done**
 
-2. Write about the experience of STEM Trivial in React, Aurelia and Angular and share it.
+2. Write about the experience of STEM Trivial in React, Aurelia and Angular and share it. --> **Working on it, probably shared with ComunidadCode**
 
-3. Realize another technical workshop for girls in my council --> **In progress**
+3. Realize another technical workshop for girls in my council --> **Searching for installations...**
 
 ## June 2018
 
-1. Make a chat using Google Home Assistant.
+1. Prepare the talk about my experience with React, Aurelia and Angular for Comunidad Code.
 
-2. Make a bot for Afaya publications.
+2. Start planning my summer personal project.
 
 ## July 2018
 
-1. Start a new personal project.
+1. Develop my summer personal project.
 
 ## August 2018
 
-1. Start a new personal project.
+1. Develop my summer personal project.
+
 ## September 2018
+
+1. Finish my summer personal project.
+
+2. Document the project and share it.
+
 ## October 2018
+
+
 ## November 2018
+
+   1. Make a chat using Google Home Assistant.
+   
 ## December 2018
 
+   1. Make a bot for Afaya publications.
 
 ## To remember  --> Before the end of 2017
 1. Pass the Scrum Manager Certification exam --> **Passed!**
