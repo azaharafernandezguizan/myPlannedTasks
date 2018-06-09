@@ -65,13 +65,17 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## June 2018
 
-1. Prepare the talk about my experience with React, Aurelia and Angular for Comunidad Code.
+1. Prepare the talk about my experience with React, Aurelia and Angular for Comunidad Code. --> **Work in progress**
 
-2. Start planning my summer personal project.
+2. Start planning my summer personal project --> **Planned!**
+
+3. Give a talk with Juanma in AsturiasHacking: Introducción al Front mediante Holas Mundo. --> **Work in progress**
 
 ## July 2018
 
-1. Develop my summer personal project.
+1. Prepare the presentation for my talk on Comunidad Code.
+
+2. Develop my summer personal project.
 
 ## August 2018
 
@@ -88,11 +92,13 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## November 2018
 
-   1. Make a chat using Google Home Assistant.
+   1. Prepare my talk in JsCanDay2018.
+   
+   2. Give the talk in JsCanDay2018.
    
 ## December 2018
 
-   1. Make a bot for Afaya publications.
+   1. Make a bot using Google Home.
 
 ## To remember  --> Before the end of 2017
 1. Pass the Scrum Manager Certification exam --> **Passed!**
