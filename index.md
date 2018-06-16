@@ -89,16 +89,19 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## October 2018
 
+1. Do some courses on Udemy.
 
 ## November 2018
 
-   1. Prepare my talk in JsCanDay2018.
+1. Prepare my talk in JsCanDay2018.
    
-   2. Give the talk in JsCanDay2018.
+2. Give the talk in JsCanDay2018.
+
+3. Do some courses on Udemy.
    
 ## December 2018
 
-   1. Make a bot using Google Home.
+1. Make a bot using Google Home.
 
 ## To remember  --> Before the end of 2017
 1. Pass the Scrum Manager Certification exam --> **Passed!**
