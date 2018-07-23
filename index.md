@@ -73,11 +73,13 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## July 2018
 
-1. Prepare the presentation for my talk on Comunidad Code. --> **Work in progress**
+1. Prepare the presentation for my talk on Comunidad Code. --> **Done!**
 
-2. Give a talk on Comunidad Code.
+2. Give a talk on Comunidad Code. --> **Done!**
 
-2. Develop my summer personal project.--> **Work in progress**
+3. Develop my summer personal project.--> **Work in progress**
+
+4. Attend a course in Udemy about GraphQL --> **Done**
 
 ## August 2018
 
@@ -94,6 +96,8 @@ Here I will be updating the list of planned tasks that I want to finalise before
 ## October 2018
 
 1. Do some courses on Udemy.
+
+2. Prepare my talk in JsCanDay2018.
 
 ## November 2018
 
