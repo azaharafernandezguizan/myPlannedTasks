@@ -93,11 +93,13 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 2. Document the project and share it.
 
+3. Read the Aurelia´s book.
+
 ## October 2018
 
-1. Do some courses on Udemy.
+1. Prepare my talk in JsCanDay2018.
 
-2. Prepare my talk in JsCanDay2018.
+2. Prepare my talk in CommitConf.
 
 ## November 2018
 
@@ -105,13 +107,14 @@ Here I will be updating the list of planned tasks that I want to finalise before
    
 2. Give the talk in JsCanDay2018.
 
-3. Do some courses on Udemy.
-   
+3. Prepare my talk in CommitConf.
+
+4. Give my talk in CommitConf.
+
 ## December 2018
+1. Attend some courses on Udemy.
 
-1. Make a bot using Google Home.
-
-2. Plan to start studying C# Certification.
+2. Make the planning for 2019: Arduino wand and Certification
 
 ## To remember  --> Before the end of 2017
 1. Pass the Scrum Manager Certification exam --> **Passed!**
