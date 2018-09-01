@@ -83,23 +83,33 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## August 2018
 
-1. Develop my summer personal project.
+1. Develop my summer personal project.--> **Done**
 
-2. Take a week out to relax.
+2. Take a week out to relax.--> **Done**
 
 ## September 2018
 
-1. Finish my summer personal project.
+1. Finish my summer personal project.--> **Done**
 
-2. Document the project and share it.
+2. Document the project and share it.--> **Done**
 
-3. Read the Aurelia´s book.
+3. Read the Aurelia´s book.--> **Postpone**
+
+4. Read .Net Core book --> **In Progress**
+
+5. Prepare things for AsturiasHacking --> **In Progress**
+
+6. Analyse if it is possible to organize a TechInnovation Challenge in SMRA --> **In Progress**
+
+7. Prepare the unconferrence of CommitConf with Judit --> **In Progress**
 
 ## October 2018
 
 1. Prepare my talk in JsCanDay2018.
 
 2. Prepare my talk in CommitConf.
+
+3. Continue working on AsturiasHacking.
 
 ## November 2018
 
