@@ -17,7 +17,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. Organize Asturias NEtConf
 
-2. Organize AsturiasHacking lean coffee of 11th of February week.
+2. Organize AsturiasHacking lean coffee of 14th of February week.
 
 3. Attend BilboStack
 
@@ -25,7 +25,7 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. Organize Asturias NEtConf
 
-2. Organize AsturiasHacking lean coffee of 11th of February week. 
+2. Organize AsturiasHacking lean coffee of 14th of February week. 
 
 3. Give the talk about technology in medicine and women that rock in two high-schools.
 
@@ -35,8 +35,6 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. Organize Asturias NetConf
 
-2. Attend T3chfest
-
 3. Give the kit at Sngular Sevilla.
 
 ## April 2019
@@ -45,20 +43,32 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 2. Go on holidays for the Holy Week and take this four days off!
 
+3. Start working on my personal project with Raspberri Pi and JavaScript.
+
 ## May 2019
-
-1. Start working on my personal project with Raspberri Pi and JavaScript.
-
-## June 2019
 
 1. Continue working on my personal project with Raspberri Pi and JavaScript.
 
+## June 2019
+
+1. Finish my personal project with Raspberri Pi and JavaScript.
+
 2. Attend PucelaTechDay
+
+3. Start working on my personal project with Angular and Net Core, with care on CSS and accesibility.
 
 
 ## July 2019
+
+1. Continue working on my personal project with Angular and Net Core, with care on CSS and accesibility.
+
 ## August 2019
+
+1. Continue working on my personal project with Angular and Net Core, with care on CSS and accesibility.
+
 ## September 2019
+
+1. Continue working on my personal project with Angular and Net Core, with care on CSS and accesibility.
 ## October 2019
 ## December 2019
 
