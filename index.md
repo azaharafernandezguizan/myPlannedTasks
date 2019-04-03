@@ -15,33 +15,35 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 ## January 2019
 
-1. Organize Asturias NEtConf
+1. Organize Asturias NEtConf **DONE**
 
-2. Organize AsturiasHacking lean coffee of 14th of February week.
+2. Organize AsturiasHacking lean coffee of 14th of February week. **DONE**
 
-3. Attend BilboStack
+3. Attend BilboStack. **DONE**
 
 ## February 2019
 
-1. Organize Asturias NEtConf
+1. Organize Asturias NEtConf  **DONE**
 
-2. Organize AsturiasHacking lean coffee of 14th of February week. 
+2. Organize AsturiasHacking lean coffee of 14th of February week.   **DONE**
 
-3. Give the talk about technology in medicine and women that rock in two high-schools.
+3. Give the talk about technology in medicine and women that rock in two high-schools. **DONE**
 
-4. Prepare a kit for Sngular Sevilla.
+4. Prepare a kit for Sngular Sevilla.  **DONE**
+
+5. Give my first workshop in WeCodeFest. About .NetCore.  **DONE**
 
 ## March 2019
 
-1. Organize Asturias NetConf
+1. Organize Asturias NetConf  **DONE**
 
-3. Give the kit at Sngular Sevilla.
+3. Give the kit at Sngular Sevilla.  **DONE**
 
 ## April 2019
 
-1. Make Asturias NetConf a reality.
+1. Make Asturias NetConf a reality.  **DONE**
 
-2. Go on holidays for the Holy Week and take this four days off!
+2. Go on holidays for the Holy Week and take this four days off!  **postponed**
 
 3. Start working on my personal project with Raspberri Pi and JavaScript.
 
@@ -53,23 +55,28 @@ Here I will be updating the list of planned tasks that I want to finalise before
 
 1. Finish my personal project with Raspberri Pi and JavaScript.
 
-2. Attend PucelaTechDay
+2. Attend dotNetConf.
 
 3. Start working on my personal project with Angular and Net Core, with care on CSS and accesibility.
+
+4. Expend a free day in Madrid: Prado, Retiro, meet the office.
 
 
 ## July 2019
 
-1. Continue working on my personal project with Angular and Net Core, with care on CSS and accesibility.
+1. Continue working on my personal project with Angular of things.
 
 ## August 2019
 
-1. Continue working on my personal project with Angular and Net Core, with care on CSS and accesibility.
+1. Continue working on my personal project with Angular of things.
 
 ## September 2019
 
-1. Continue working on my personal project with Angular and Net Core, with care on CSS and accesibility.
+1. Finish my personal project. 
+
+2. If some C4P accepted start preparing the talk.
 ## October 2019
+## November 2019
 ## December 2019
 
 
